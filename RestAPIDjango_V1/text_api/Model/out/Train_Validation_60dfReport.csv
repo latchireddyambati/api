@@ -1,0 +1,49 @@
+,Category,fScore,precision,recall,support
+0,Account Disabled,0.7,0.61,0.81,48.0
+1,Account Info,0.0,0.0,0.0,13.0
+2,Account Setup,0.0,0.0,0.0,11.0
+3,Additional User,0.67,1.0,0.5,2.0
+4,Anti Virus,0.67,0.56,0.83,6.0
+5,App Issue,0.0,0.0,0.0,1.0
+6,Appointment,0.91,0.95,0.87,23.0
+7,Bill Explaination,0.67,0.5,1.0,1.0
+8,Bill Related,0.0,0.0,0.0,1.0
+9,Block Calls,0.83,0.83,0.83,6.0
+10,Cable Box Not Working,0.68,0.57,0.83,48.0
+11,Cable Issue,0.0,0.0,0.0,4.0
+12,Caller Id,0.88,0.88,0.88,8.0
+13,Cancellation,0.62,0.5,0.8,5.0
+14,Change Package,0.0,0.0,0.0,2.0
+15,Channel Issue,0.82,0.73,0.94,85.0
+16,Channel List,0.0,0.0,0.0,9.0
+17,Chhange Address - My Move,0.0,0.0,0.0,1.0
+18,Dail Tone Issue,0.81,0.79,0.85,13.0
+19,Details Of Existing Plan,0.0,0.0,0.0,9.0
+20,Dvr Issue,0.89,0.86,0.93,45.0
+21,Email Issue,0.77,0.71,0.84,50.0
+22,Home Wifi,0.78,0.68,0.91,74.0
+23,Internet Not Working,0.74,0.63,0.89,85.0
+24,Login Issue,0.74,0.73,0.75,129.0
+25,Modem Issue,0.0,0.0,0.0,3.0
+26,Modem Setup,0.71,0.71,0.71,93.0
+27,Odc-Not Working,0.71,0.58,0.92,12.0
+28,Odm,0.37,0.6,0.27,11.0
+29,Online Tv Issues,0.0,0.0,0.0,2.0
+30,Order Status,0.4,0.25,1.0,1.0
+31,Phone Not Working,0.71,0.7,0.73,22.0
+32,Phone Setup,0.0,0.0,0.0,1.0
+33,Plan Explaination,0.0,0.0,0.0,6.0
+34,Purchase Modem,0.0,0.0,0.0,24.0
+35,Remote,0.87,0.79,0.96,24.0
+36,Return Box,0.0,0.0,0.0,4.0
+37,Security Issue,0.0,0.0,0.0,1.0
+38,Service Availablity,0.44,0.33,0.67,9.0
+39,Service Issue,0.0,0.0,0.0,10.0
+40,Signal Issue,0.0,0.0,0.0,22.0
+41,Speed Issue,0.91,0.95,0.88,231.0
+42,Streaming,0.0,0.0,0.0,2.0
+43,Tv Setup,0.0,0.0,0.0,4.0
+44,Update,0.0,0.0,0.0,7.0
+45,Upgrade Plan-Internet,0.0,0.0,0.0,7.0
+46,Voice Mail,0.89,0.84,0.94,17.0
+47,Wifi Password,0.56,0.83,0.42,12.0

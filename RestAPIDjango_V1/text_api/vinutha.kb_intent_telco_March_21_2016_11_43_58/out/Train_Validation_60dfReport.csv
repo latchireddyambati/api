@@ -1,0 +1,32 @@
+,Category,fScore,precision,recall,support
+0,Activate Device/Service,0.63,0.65,0.62,94.0
+1,Add a Line,0.64,1.0,0.47,17.0
+2,Add ons,0.0,0.0,0.0,4.0
+3,Bundles Upgrade/Downgrade,0.79,0.75,0.84,277.0
+4,Cancellation and Retention,0.83,0.82,0.84,173.0
+5,Contract Information,0.75,0.78,0.71,142.0
+6,Data top up,0.74,0.72,0.76,145.0
+7,Details of existing plan,0.19,0.43,0.12,108.0
+8,Device settings,0.63,0.69,0.58,95.0
+9,Fixed internet only plan,0.53,0.81,0.39,76.0
+10,Installation & Installation Charges,0.93,1.0,0.88,8.0
+11,Insurance Queries,0.52,1.0,0.35,17.0
+12,Internet Queries,0.29,0.81,0.18,74.0
+13,Lost & Found,0.65,0.79,0.56,27.0
+14,Make payment,0.51,0.74,0.39,51.0
+15,Make payment - Reinstate/Restore service,0.73,0.74,0.71,98.0
+16,Order Equipment,0.0,0.0,0.0,38.0
+17,Order Issues,0.82,1.0,0.7,20.0
+18,Order Status,0.85,0.82,0.88,104.0
+19,Others,0.64,0.66,0.63,125.0
+20,"Payment Status, Arrangement and Issue",0.87,0.84,0.91,189.0
+21,Product or Service Quality issues,0.81,0.76,0.87,1359.0
+22,Promotions & Discounts,0.71,0.75,0.67,178.0
+23,Replacement Sim,0.0,0.0,0.0,5.0
+24,Schedule Appointment,0.79,0.83,0.76,25.0
+25,Setup/Register Account Online,0.59,0.69,0.51,388.0
+26,TV only plan Upgrade/Downgrade,0.82,0.96,0.71,72.0
+27,Unlocking Device,0.93,0.92,0.94,128.0
+28,bill explanation,0.74,0.71,0.78,213.0
+29,credits and bill disputes,0.0,0.0,0.0,3.0
+30,phone + plan (international/data) Upgrade/Downgrade,0.78,0.74,0.83,1389.0

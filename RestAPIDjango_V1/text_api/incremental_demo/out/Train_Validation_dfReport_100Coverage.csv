@@ -1,0 +1,57 @@
+,Category,fScore,precision,recall,support
+0,Account Disabled,0.6,0.61,0.59,74.0
+1,Account Info,0.31,0.41,0.25,52.0
+2,Account Setup,0.15,0.5,0.09,23.0
+3,Add Ons,0.0,0.0,0.0,2.0
+4,Additional User,0.0,0.0,0.0,2.0
+5,Anti Virus,0.8,0.75,0.86,7.0
+6,App Issue,0.33,0.43,0.27,11.0
+7,Appointment,0.67,0.65,0.69,59.0
+8,Bill Explaination,0.0,0.0,0.0,7.0
+9,Bill Related,0.27,0.67,0.17,12.0
+10,Block Calls,0.36,0.5,0.29,7.0
+11,Cable Box Not Working,0.64,0.56,0.75,64.0
+12,Cable Issue,0.52,0.59,0.46,37.0
+13,Call History,0.0,0.0,0.0,2.0
+14,Caller Id,0.67,0.7,0.64,11.0
+15,Cancellation,0.5,1.0,0.33,6.0
+16,Change Package,0.0,0.0,0.0,5.0
+17,Channel Issue,0.64,0.56,0.76,122.0
+18,Channel List,0.29,0.5,0.2,10.0
+19,Chhange Address - My Move,0.0,0.0,0.0,6.0
+20,Dail Tone Issue,0.67,0.89,0.53,15.0
+21,Details Of Existing Plan,0.11,0.33,0.07,15.0
+22,Digital Adapter,0.6,0.75,0.5,6.0
+23,Dvr Issue,0.88,0.91,0.86,49.0
+24,Email Issue,0.74,0.66,0.85,68.0
+25,Home Wifi,0.74,0.7,0.79,90.0
+26,Internet Not Working,0.64,0.55,0.76,134.0
+27,Login Issue,0.72,0.65,0.8,240.0
+28,Make Payment,0.0,0.0,0.0,2.0
+29,Modem Issue,0.0,0.0,0.0,7.0
+30,Modem Setup,0.64,0.56,0.74,144.0
+31,Odc-Not Working,0.56,0.56,0.56,18.0
+32,Odm,0.4,1.0,0.25,12.0
+33,Online Tv Issues,0.0,0.0,0.0,6.0
+34,Order Status,0.5,1.0,0.33,3.0
+35,Phone Not Working,0.6,0.55,0.67,61.0
+36,Phone Setup,0.31,1.0,0.18,11.0
+37,Plan Explaination,0.14,0.29,0.1,21.0
+38,Purchase Modem,0.27,0.35,0.22,32.0
+39,Receving Bill - Paper&Paperless,0.0,0.0,0.0,1.0
+40,Remote,0.71,0.72,0.7,33.0
+41,Return Box,0.0,0.0,0.0,9.0
+42,Security Issue,0.0,0.0,0.0,1.0
+43,Service Availablity,0.3,0.33,0.28,18.0
+44,Service Issue,0.3,0.38,0.26,47.0
+45,Signal Issue,0.41,0.45,0.38,64.0
+46,Smart Tv,0.0,0.0,0.0,4.0
+47,Speed Issue,0.89,0.87,0.9,269.0
+48,Streaming,0.29,0.5,0.2,5.0
+49,Tv Not Working,0.4,0.67,0.29,7.0
+50,Tv Setup,0.0,0.0,0.0,22.0
+51,Twc Id,0.24,0.2,0.29,7.0
+52,Update,0.0,0.0,0.0,16.0
+53,Upgrade Plan-Internet,0.27,0.67,0.17,12.0
+54,Voice Mail,0.83,0.88,0.79,19.0
+55,Wifi Password,0.46,0.5,0.42,19.0

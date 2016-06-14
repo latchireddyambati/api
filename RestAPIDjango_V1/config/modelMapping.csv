@@ -1,0 +1,15 @@
+modelId,clientId,modelName,clientName,usecase
+1,1,Model,optus,intent
+2,1,vinutha.kb_intent_generic_March_21_2016_11_43_58,optus,generic
+3,1,vinutha.kb_intent_telco_March_21_2016_11_43_58,optus,telco
+4,1,vinutha.kb_Retail Intent_March_21_2016_16_03_58,optus,Retail Intent
+6,1,incremental_demo,argos,intent_incremental
+5,2,Std_LTV_vinutha.kb_May_18_2016_12_57_28,ATT,ltv
+0,1,default_folder,optus,intent
+21,0,afinn,generic,sentiment
+22,0,pattern,generic,sentiment
+23,0,vader,generic,sentiment
+24,0,sentlex,generic,sentiment
+25,0,senti_classifier,generic,sentiment
+26,0,sentiwordnet,generic,sentiment
+31,1,None,None,survey

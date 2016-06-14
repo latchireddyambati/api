@@ -1,0 +1,26 @@
+,Account_Enquiry,Cancellation,Checkout Issue,Color,Giftcard_Issues,Layaway Query,Manufacturer Information,Material,Order_Assistance,Order_Issue,Payment Issues,Plan Device Upgrae,Price Match,Price _Enquiry,Product Comparison,Product Details,Product Inventory,Promotions/Deals/Discounts,Return Policy,Rewards,Shipping Inquiry,Size-Shape,Store_Pickup_Queries,System Issue,Warranty Enquiry
+Account_Enquiry,66,0,0,0,0,2,0,0,0,5,0,2,0,0,0,2,0,0,0,1,0,0,0,0,0
+Cancellation,1,47,0,0,1,2,0,0,0,8,1,0,0,0,0,0,0,0,0,1,2,0,0,0,0
+Checkout Issue,0,0,1,0,0,0,0,0,5,1,0,0,0,0,0,0,1,0,0,0,6,0,0,0,0
+Color,0,0,0,13,0,0,0,0,0,0,0,0,1,0,0,2,2,0,0,0,1,0,0,0,0
+Giftcard_Issues,0,0,0,0,126,0,0,0,0,0,5,0,0,0,0,3,0,8,0,1,0,0,2,0,0
+Layaway Query,1,0,0,0,0,122,0,0,0,0,3,0,1,0,0,0,0,0,0,1,1,0,1,0,0
+Manufacturer Information,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,4,3,0,0,0,0,2,0,0,2
+Material,0,0,0,0,0,0,0,7,0,0,1,0,0,0,0,3,0,0,0,0,1,1,0,0,2
+Order_Assistance,2,0,0,0,1,0,0,0,21,12,16,0,0,0,0,5,4,9,0,1,17,0,3,0,0
+Order_Issue,0,0,0,0,3,4,0,0,0,224,8,1,0,1,0,8,1,12,0,2,9,1,1,0,0
+Payment Issues,0,0,0,0,6,2,0,0,4,10,142,0,0,0,0,1,0,4,0,6,4,0,7,0,0
+Plan Device Upgrae,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,2,0,0,0,0,0,0,0,0,0
+Price Match,0,0,0,0,0,1,0,0,0,0,0,1,91,5,0,1,0,5,2,0,1,0,2,0,1
+Price _Enquiry,0,0,0,0,0,0,0,0,0,5,0,0,1,42,0,5,2,3,0,1,5,0,1,0,0
+Product Comparison,0,0,0,0,0,0,0,0,0,1,1,0,1,1,11,9,4,0,0,0,1,0,0,0,0
+Product Details,0,0,0,0,2,0,2,1,4,6,4,0,0,2,0,190,11,4,10,0,14,18,6,0,2
+Product Inventory,1,0,0,1,0,3,0,0,8,3,1,0,0,1,0,29,168,3,0,1,16,5,23,0,0
+Promotions/Deals/Discounts,0,0,0,0,2,0,0,0,1,3,9,0,0,8,0,3,2,444,0,13,6,0,9,0,0
+Return Policy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,130,0,2,0,2,0,0
+Rewards,0,0,0,0,2,0,0,0,1,0,14,0,0,0,0,0,0,23,2,143,3,0,0,0,0
+Shipping Inquiry,0,1,0,0,4,0,0,0,2,3,0,0,0,0,0,6,12,2,1,0,355,0,25,0,1
+Size-Shape,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,1,0,0,1,78,0,0,0
+Store_Pickup_Queries,1,0,0,0,1,0,0,0,0,5,1,0,0,0,0,1,13,14,2,0,15,0,247,0,0
+System Issue,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+Warranty Enquiry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,24

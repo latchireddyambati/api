@@ -1,0 +1,17 @@
+,Category,fScore,precision,recall,support
+0,Account Management,0.89,0.87,0.92,295.0
+1,Billing & Payments,0.86,0.84,0.89,259.0
+2,Complaints,0.62,1.0,0.44,9.0
+3,"Discounts, Offers, Promotions",0.9,0.88,0.92,207.0
+4,Disputes,0.73,0.76,0.7,67.0
+5,Fees and charges,0.88,0.87,0.89,129.0
+6,Fraud,0.0,0.0,0.0,12.0
+7,"Modifications, Cancellation and Refunds",0.81,0.84,0.78,90.0
+8,Ordering Process,0.0,0.0,0.0,10.0
+9,Product or Service Details,0.92,0.88,0.98,43.0
+10,Product or Service Quality issues,0.78,0.77,0.79,95.0
+11,Purchase Pricing Enquiry,0.85,0.81,0.88,125.0
+12,Scheduling Appointments,0.78,0.79,0.77,60.0
+13,Shipping  & Order Status,0.83,0.79,0.86,44.0
+14,Warranty & Repairs,0.58,0.94,0.41,41.0
+15,Website Issue,0.9,1.0,0.81,16.0
